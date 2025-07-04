@@ -3,6 +3,8 @@ pipeline {
 
     environment{
         VENV_DIR = 'venv'
+        GCP_PROJECT = "moonlit-vine-464915-u5"
+        GLCOUD_PATH = "/var/jenkins_home/google-cloud-sdk/bin"
     }
 
 
