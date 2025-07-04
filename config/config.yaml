@@ -1,5 +1,5 @@
 data_ingestion:
-  bucket_name: my-new-bucket077
+  bucket_name: my-new-bucket099
 
   bucket_file_names:
     - anime.csv
